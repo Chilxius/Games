@@ -80,7 +80,7 @@ boolean checkBurger()
   {
     for(int j = 0; j < currentItem; j++)  //Cycles through the current burger
     {
-      println(parsedBurger[j] + " " + parsedMenu[i]); //Testing
+      //println(parsedBurger[j] + " " + parsedMenu[i]); //Testing
       if( parsedBurger[j] == parsedMenu[i] )
       {
         parsedBurger[j] = 0;  //If a match is found, removes that item from the temporary menu item array
