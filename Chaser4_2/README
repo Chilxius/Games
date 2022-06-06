@@ -1,0 +1,5 @@
+This is the first real game I made in Processing.
+It's a game where your avatar follows the mouse cursor and you have to avoid the chasers.
+I made this back when I was learning Processing so the code aint the greatest.
+Once caught, clicking the mouse resets the game, but not perfectly. The game becomes glitchier with every subsequent restart.
+There are hidden "cheats" activated by pressing certain buttons.
