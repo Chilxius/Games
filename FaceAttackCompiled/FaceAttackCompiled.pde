@@ -26,7 +26,9 @@
 
 ////////////////////////////
 // Never tested in replit //
-////////////////////////////
+////////////////////////////////////
+// Code requires the cookie image //
+////////////////////////////////////
 
 //For Background, which will be black/purple with stars
 int starCount = 500;
@@ -843,7 +845,7 @@ class ShotPowerup extends Powerup
 //by my students and me.
 
 //Edit the drawFace() method to add new faces.
-//  If they were using X and Y, change it to X and Y (find and replace)
+//  If they were using mouseX and mouseY, change it to X and Y (find and replace)
 //Edit the changeFace() method based on the faces available.
 
 class Face
